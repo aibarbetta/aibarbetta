@@ -49,16 +49,18 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 mins              ██████████████████████░░░   88.59% 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+csi-plugins              4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +77,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 <!--
