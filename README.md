@@ -49,16 +49,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 12 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+guardian                 1 hr 11 mins        ████████████████████████░   98.66% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +76,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 <!--
