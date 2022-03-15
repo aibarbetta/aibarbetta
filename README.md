@@ -49,16 +49,18 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 23 mins        ████████████████████████░   99.32% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ubuntu-preseed           1 hr                ██████████████████░░░░░░░   71.96% 
+rhel-preseed             23 mins             ███████░░░░░░░░░░░░░░░░░░   28.04%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +77,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2022 18:43:36 UTC
+ Last Updated on 15/03/2022 18:45:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
