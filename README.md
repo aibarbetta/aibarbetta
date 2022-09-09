@@ -20,7 +20,7 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2059%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -82,7 +82,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2022 18:52:35 UTC
+ Last Updated on 09/09/2022 18:52:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
