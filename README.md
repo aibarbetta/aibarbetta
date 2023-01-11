@@ -51,18 +51,16 @@ Sunday       4 commits      ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Go                       19 mins             ████████████████████░░░░░   80.88% 
-YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-d1-operator              19 mins             ████████████████████░░░░░   80.88% 
-deployment-infra         4 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.12%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +77,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2023 18:41:48 UTC
+ Last Updated on 11/01/2023 18:44:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
