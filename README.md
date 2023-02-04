@@ -20,7 +20,7 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2046%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -79,7 +79,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2023 18:41:05 UTC
+ Last Updated on 04/02/2023 18:38:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
