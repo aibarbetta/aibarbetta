@@ -20,7 +20,7 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2023%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,16 +49,17 @@ Sunday                   4 commits           ███████░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     56 mins             █████████████████████████   100.00 % 
+YAML                     49 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-deployment-infra         56 mins             █████████████████████████   100.00 % 
+deployment-infra         46 mins             ████████████████████████░   94.04 % 
+cloud-deployment-infra   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Mac                      56 mins             █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +75,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:42:05 UTC
+ Last Updated on 24/02/2023 18:41:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
