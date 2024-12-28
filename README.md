@@ -49,17 +49,16 @@ Sunday                   1110 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Go                       13 mins             █████████████░░░░░░░░░░░░   52.65 % 
-JSON                     12 mins             ████████████░░░░░░░░░░░░░   47.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kustomize                25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +74,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 18:44:35 UTC
+ Last Updated on 28/12/2024 18:43:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
