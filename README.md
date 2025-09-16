@@ -20,47 +20,6 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2032%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-🌆 Daytime                2499 commits        ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌃 Evening                2580 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌙 Night                  1462 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   919 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                826 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Thursday                 944 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 1297 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Sunday                   1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -74,7 +33,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 18:52:36 UTC
+ Last Updated on 16/09/2025 18:53:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
