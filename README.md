@@ -20,7 +20,7 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2027%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -49,16 +49,18 @@ Sunday                   1275 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 44 mins        ███████████████████████░░   91.08 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+observability            1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,7 +76,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2025 18:51:16 UTC
+ Last Updated on 27/09/2025 18:48:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
