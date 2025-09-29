@@ -20,6 +20,8 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2034%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -74,7 +76,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 18:47:52 UTC
+ Last Updated on 29/09/2025 18:53:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
