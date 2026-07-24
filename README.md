@@ -23,16 +23,16 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌞 Morning                959 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 🌆 Daytime                2576 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
-🌃 Evening                2689 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌃 Evening                2689 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
 🌙 Night                  1480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   929 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Tuesday                  1057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Tuesday                  1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Wednesday                860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 Thursday                 983 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 Friday                   1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
@@ -47,20 +47,24 @@ Sunday                   1333 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 1 hr 51 mins        █████████████░░░░░░░░░░░░   53.26 % 
-YAML                     55 mins             ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Other                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Markdown                 1 hr 57 mins        ████████████████░░░░░░░░░   63.16 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+YAML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 48 mins       ████████████████████░░░░░   80.37 % 
-VS Code                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Claude Code              2 hrs 14 mins       ██████████████████░░░░░░░   72.32 % 
+VS Code                  51 mins             ███████░░░░░░░░░░░░░░░░░░   27.68 % 
 
 🐱‍💻 Projects: 
-capi-clusters            3 hrs 30 mins       █████████████████████████   100.00 % 
+capi-clusters            2 hrs 55 mins       ████████████████████████░   94.53 % 
+veritran-plugins         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+toolbox                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+deployments              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -76,7 +80,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:01:58 UTC
+ Last Updated on 24/07/2026 20:02:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
