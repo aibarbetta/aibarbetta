@@ -20,7 +20,7 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2047%20mins-blue?style=flat)
 
@@ -51,44 +51,45 @@ Sunday                   1333 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        █████████████████████░░░░   85.73 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Markdown                 2 hrs 16 mins       ████████████████████░░░░░   79.25 % 
+JSON                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         ███████████████░░░░░░░░░░   59.57 % 
-Claude Code              47 mins             ██████████░░░░░░░░░░░░░░░   40.43 % 
+Claude Code              1 hr 35 mins        ██████████████░░░░░░░░░░░   55.49 % 
+VS Code                  1 hr 16 mins        ███████████░░░░░░░░░░░░░░   44.51 % 
 
 🐱‍💻 Projects: 
-capi-clusters            1 hr 39 mins        █████████████████████░░░░   85.73 % 
-toolbox                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-deployments              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+capi-clusters            2 hrs 27 mins       █████████████████████░░░░   85.61 % 
+toolbox                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+image-builder-personal-fo8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+deployments              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (72.38%)
+⏱ AI Coding Time: 2 hrs 12 mins (76.96%)
 
-✍️ 45 lines written by AI, 20 lines written by hand (69.23% AI-written)
+✍️ 44 lines written by AI, 20 lines written by hand (68.75% AI-written)
 
-🔤 3,442,947 Input Tokens, 24,035 Output Tokens
+🔤 7,264,967 Input Tokens, 43,903 Output Tokens
 
-💵 $23.52 Estimated AI Cost This Week
+💵 $35.29 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 40 AI Prompts
+🧠 3 AI Sessions, 35 AI Prompts
 
-Opus                     222 lines           █████████████████░░░░░░░░   66.27 % 
-Sonnet                   113 lines           ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Opus                     222 lines           █████████████████░░░░░░░░   66.47 % 
+Sonnet                   112 lines           ████████░░░░░░░░░░░░░░░░░   33.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.23% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 31.82% of changed lines were hand-edited
+🤖 AI-Driven — 68.75% of written lines came from AI
+📝 Concise Prompter — average 413 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 42.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +105,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:08:39 UTC
+ Last Updated on 31/07/2026 20:09:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
