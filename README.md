@@ -51,49 +51,49 @@ Sunday                   1339 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     4 hrs 28 mins       █████████████░░░░░░░░░░░░   53.70 % 
-Other                    2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Java                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+YAML                     4 hrs 25 mins       ███████████████░░░░░░░░░░   60.54 % 
+Other                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Java                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 35 mins       ██████████████░░░░░░░░░░░   55.11 % 
-VS Code                  3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
+VS Code                  3 hrs 46 mins       █████████████░░░░░░░░░░░░   51.64 % 
+Claude Code              3 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.36 % 
 
 🐱‍💻 Projects: 
-kubernetes-test-infra    3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.29 % 
-capi-clusters            2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-assets-service           1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-devstation-entities      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-toolbox                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+kubernetes-test-infra    3 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.01 % 
+assets-service           1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+capi-clusters            1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+devstation-entities      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+toolbox                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      8 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (74.8%)
+⏱ AI Coding Time: 5 hrs 11 mins (71.2%)
 
-✍️ 2,784 lines written by AI, 37 lines written by hand (98.69% AI-written)
+✍️ 234 lines written by AI, 37 lines written by hand (86.35% AI-written)
 
-🔤 37,850,864 Input Tokens, 146,677 Output Tokens
+🔤 23,655,399 Input Tokens, 105,239 Output Tokens
 
-💵 $168.93 Estimated AI Cost This Week
+💵 $52.69 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 94 AI Prompts
+🧠 10 AI Sessions, 81 AI Prompts
 
-Sonnet                   2,660 lines         ███████████████████████░░   90.29 % 
-Opus                     286 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Opus                     256 lines           ████████████████████████░   96.24 % 
+Sonnet                   10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.69% of written lines came from AI
-📄 Detailed Prompter — average 659 characters per prompt
+🤖 AI-Driven — 86.35% of written lines came from AI
+📄 Detailed Prompter — average 647 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.09% of changed lines were hand-edited
+🚀 High AI Trust — 31.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -109,7 +109,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:38:28 UTC
+ Last Updated on 11/08/2026 19:43:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
