@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,49 +51,49 @@ Sunday                   1336 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.71 % 
-Markdown                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Java                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+YAML                     3 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.66 % 
+Markdown                 2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Java                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.46 % 
-Claude Code              2 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.54 % 
+Claude Code              4 hrs 16 mins       ███████████████░░░░░░░░░░   59.81 % 
+VS Code                  2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
 
 🐱‍💻 Projects: 
-assets-service           2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.28 % 
-kubernetes-test-infra    1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.45 % 
-devstation-entities      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-toolbox                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-deployments              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+assets-service           3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.69 % 
+kubernetes-test-infra    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+deployments              1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+devstation-entities      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+devstation               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (74.52%)
+⏱ AI Coding Time: 5 hrs 38 mins (78.73%)
 
-✍️ 292 lines written by AI, 24 lines written by hand (92.41% AI-written)
+✍️ 1,106 lines written by AI, 24 lines written by hand (97.88% AI-written)
 
-🔤 1,219,492 Input Tokens, 93,362 Output Tokens
+🔤 1,848,284 Input Tokens, 157,521 Output Tokens
 
-💵 $11.12 Estimated AI Cost This Week
+💵 $21.08 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 62 AI Prompts
+🧠 15 AI Sessions, 89 AI Prompts
 
-Opus                     324 lines           █████████████████████████   100.00 % 
+Opus                     1,323 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.41% of written lines came from AI
-📚 Verbose Prompter — average 1,603 characters per prompt
+🤖 AI-Driven — 97.88% of written lines came from AI
+📄 Detailed Prompter — average 1,213 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 21.36% of changed lines were hand-edited
+🚀 High AI Trust — 8.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -109,7 +109,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:41:06 UTC
+ Last Updated on 14/08/2026 19:35:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
