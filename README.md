@@ -20,9 +20,9 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,49 +51,49 @@ Sunday                   1336 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
-Markdown                 2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+YAML                     2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Markdown                 2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 28 mins       ███████████████████░░░░░░   76.94 % 
-VS Code                  2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Claude Code              7 hrs 2 mins        ██████████████████████░░░   86.17 % 
+VS Code                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 
 🐱‍💻 Projects: 
-deployments              5 hrs 23 mins       ██████████████░░░░░░░░░░░   55.39 % 
-assets-service           1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-kubernetes-test-infra    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-devstation               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-toolbox                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+deployments              5 hrs 23 mins       ████████████████░░░░░░░░░   65.96 % 
+assets-service           1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+devstation               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+toolbox                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+capi-clusters            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 22 mins (86.17%)
+⏱ AI Coding Time: 7 hrs 28 mins (91.54%)
 
-✍️ 1,305 lines written by AI, 17 lines written by hand (98.71% AI-written)
+✍️ 1,305 lines written by AI, 5 lines written by hand (99.62% AI-written)
 
-🔤 1,941,377 Input Tokens, 283,032 Output Tokens
+🔤 1,855,840 Input Tokens, 271,053 Output Tokens
 
-💵 $36.11 Estimated AI Cost This Week
+💵 $35.61 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 97 AI Prompts
+🧠 15 AI Sessions, 89 AI Prompts
 
 Opus                     1,451 lines         ████████████████████████░   97.32 % 
 Sonnet                   40 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.71% of written lines came from AI
-📄 Detailed Prompter — average 1,164 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.99% of changed lines were hand-edited
+🤖 AI-Driven — 99.62% of written lines came from AI
+📄 Detailed Prompter — average 1,155 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -109,7 +109,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 19:03:20 UTC
+ Last Updated on 16/08/2026 19:02:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
