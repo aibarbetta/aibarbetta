@@ -20,28 +20,28 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                968 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                2592 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌃 Evening                2702 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  1480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+🌞 Morning                978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌆 Daytime                2598 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌃 Evening                2702 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
+🌙 Night                  1480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   929 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Tuesday                  1062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                868 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Thursday                 986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   1155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 1403 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Sunday                   1339 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Monday                   929 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  1068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Wednesday                873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Thursday                 986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Friday                   1160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 1403 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Sunday                   1339 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 ```
 
 
@@ -51,48 +51,48 @@ Sunday                   1339 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
-Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Other                    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+YAML                     3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.05 % 
+Other                    1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 20 mins       █████████████████████░░░░   85.91 % 
-VS Code                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Claude Code              6 hrs 22 mins       █████████████████████░░░░   85.73 % 
+VS Code                  1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 🐱‍💻 Projects: 
-deployments              5 hrs 27 mins       ██████████████░░░░░░░░░░░   56.16 % 
-assets-service           1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-toolbox                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-devstation               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-capi-clusters            44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+deployments              4 hrs 24 mins       ███████████████░░░░░░░░░░   59.38 % 
+toolbox                  1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+capi-clusters            44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+assets-service           33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+devstation               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 50 mins (91.09%)
+⏱ AI Coding Time: 6 hrs 50 mins (92.13%)
 
-✍️ 1,472 lines written by AI, 5 lines written by hand (99.66% AI-written)
+✍️ 658 lines written by AI, 5 lines written by hand (99.25% AI-written)
 
-🔤 4,316,104 Input Tokens, 336,768 Output Tokens
+🔤 3,757,796 Input Tokens, 278,973 Output Tokens
 
-💵 $41.98 Estimated AI Cost This Week
+💵 $33.87 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 122 AI Prompts
+🧠 12 AI Sessions, 97 AI Prompts
 
-Opus                     1,383 lines         █████████████████████░░░░   83.36 % 
-Sonnet                   276 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Opus                     449 lines           ███████████████░░░░░░░░░░   61.93 % 
+Sonnet                   276 lines           ██████████░░░░░░░░░░░░░░░   38.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📝 Concise Prompter — average 480 characters per prompt
+🤖 AI-Driven — 99.25% of written lines came from AI
+📄 Detailed Prompter — average 517 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.1% of changed lines were hand-edited
+🚀 High AI Trust — 4.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -108,7 +108,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:18:48 UTC
+ Last Updated on 21/08/2026 19:13:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
