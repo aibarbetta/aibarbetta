@@ -20,9 +20,9 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,47 +51,46 @@ Sunday                   1339 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    1 hr 19 mins        ██████████████░░░░░░░░░░░   56.07 % 
-Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    1 hr 8 mins         ████████████████░░░░░░░░░   63.39 % 
+Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Claude Code              1 hr 52 mins        ████████████████████░░░░░   79.48 % 
-VS Code                  29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Claude Code              1 hr 10 mins        ████████████████░░░░░░░░░   64.59 % 
+VS Code                  38 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
 
 🐱‍💻 Projects: 
-deployments              1 hr 7 mins         ████████████░░░░░░░░░░░░░   47.84 % 
-toolbox                  39 mins             ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-capi-clusters            31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-kubernetes-sig-release   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+deployments              1 hr 22 mins        ███████████████████░░░░░░   75.53 % 
+toolbox                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+capi-clusters            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+kubernetes-sig-release   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (94.02%)
+⏱ AI Coding Time: 1 hr 32 mins (85.51%)
 
-✍️ 269 lines written by AI, 38 lines written by hand (87.62% AI-written)
+✍️ 220 lines written by AI, 41 lines written by hand (84.29% AI-written)
 
-🔤 2,276,284 Input Tokens, 184,190 Output Tokens
+🔤 904,648 Input Tokens, 103,739 Output Tokens
 
-💵 $20.45 Estimated AI Cost This Week
+💵 $15.99 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 44 AI Prompts
+🧠 12 AI Sessions, 33 AI Prompts
 
-Sonnet                   291 lines           █████████████████████████   100.00 % 
+Sonnet                   242 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.62% of written lines came from AI
-📚 Verbose Prompter — average 1,816 characters per prompt
+🤖 AI-Driven — 84.29% of written lines came from AI
+📄 Detailed Prompter — average 1,179 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 16.98% of changed lines were hand-edited
+🚀 High AI Trust — 32.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -107,7 +106,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:46:09 UTC
+ Last Updated on 16/09/2026 21:39:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
