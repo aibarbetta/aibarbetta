@@ -20,9 +20,9 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,46 +51,48 @@ Sunday                   1339 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         ████████████████░░░░░░░░░   63.39 % 
-Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.42 % 
+Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        ████████████████░░░░░░░░░   64.59 % 
-VS Code                  38 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+Claude Code              2 hrs 47 mins       ████████████████████░░░░░   79.72 % 
+VS Code                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 
 🐱‍💻 Projects: 
-deployments              1 hr 22 mins        ███████████████████░░░░░░   75.53 % 
-toolbox                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-capi-clusters            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-kubernetes-sig-release   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+deployments              1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.65 % 
+Documents                1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+toolbox                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+abarbetta                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+veritran-plugins         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (85.51%)
+⏱ AI Coding Time: 3 hrs 14 mins (92.51%)
 
-✍️ 220 lines written by AI, 41 lines written by hand (84.29% AI-written)
+✍️ 631 lines written by AI, 41 lines written by hand (93.9% AI-written)
 
-🔤 904,648 Input Tokens, 103,739 Output Tokens
+🔤 1,623,991 Input Tokens, 220,098 Output Tokens
 
-💵 $15.99 Estimated AI Cost This Week
+💵 $21.96 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 33 AI Prompts
+🧠 20 AI Sessions, 63 AI Prompts
 
-Sonnet                   242 lines           █████████████████████████   100.00 % 
+Sonnet                   661 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.29% of written lines came from AI
-📄 Detailed Prompter — average 1,179 characters per prompt
+🤖 AI-Driven — 93.9% of written lines came from AI
+📄 Detailed Prompter — average 990 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.52% of changed lines were hand-edited
+🚀 High AI Trust — 14.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +108,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:39:51 UTC
+ Last Updated on 17/09/2026 21:44:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
