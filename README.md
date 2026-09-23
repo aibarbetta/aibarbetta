@@ -20,9 +20,9 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2033%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,48 +51,49 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-YAML                     2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+YAML                     2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Other                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
+Markdown                 1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 44 mins       ██████████████████████░░░   86.91 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Claude Code              6 hrs 51 mins       ██████████████████████░░░   88.68 % 
+VS Code                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 
 🐱‍💻 Projects: 
-deployments              3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
-Documents                1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-capi-clusters            1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-toolbox                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-abarbetta                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+deployments              2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+Documents                1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+capi-clusters            1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+toolbox                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+abarbetta                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 Operating System: 
-Mac                      7 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (91.85%)
+⏱ AI Coding Time: 7 hrs 13 mins (93.37%)
 
-✍️ 678 lines written by AI, 55 lines written by hand (92.5% AI-written)
+✍️ 678 lines written by AI, 52 lines written by hand (92.88% AI-written)
 
-🔤 3,313,154 Input Tokens, 339,070 Output Tokens
+🔤 3,526,234 Input Tokens, 337,078 Output Tokens
 
-💵 $20.54 Estimated AI Cost This Week
+💵 $21.33 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 136 AI Prompts
+🧠 20 AI Sessions, 135 AI Prompts
 
 Sonnet                   731 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.5% of written lines came from AI
+🤖 AI-Driven — 92.88% of written lines came from AI
 📝 Concise Prompter — average 386 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 24.56% of changed lines were hand-edited
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 20.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -108,7 +109,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:42:06 UTC
+ Last Updated on 23/09/2026 21:48:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
