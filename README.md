@@ -27,21 +27,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1015 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-🌆 Daytime                2606 commits        ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌃 Evening                2725 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌙 Night                  1486 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌞 Morning                1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌆 Daytime                2605 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+🌃 Evening                2725 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌙 Night                  1486 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Tuesday                  1069 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Thursday                 998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 1432 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Sunday                   1348 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  1068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Saturday                 1432 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Sunday                   1348 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 ```
 
 
@@ -51,45 +51,47 @@ Sunday                   1348 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    2 hrs 40 mins       ████████████████░░░░░░░░░   65.29 % 
-YAML                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Other                    2 hrs               ████████████░░░░░░░░░░░░░   49.68 % 
+Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+YAML                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 55 mins       ████████████████████████░   95.69 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Claude Code              3 hrs 48 mins       ████████████████████████░   94.16 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🐱‍💻 Projects: 
-toolbox                  2 hrs 56 mins       ██████████████████░░░░░░░   71.83 % 
-deployments              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-veritran-platform-sbom   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-capi-clusters            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+toolbox                  2 hrs 57 mins       ██████████████████░░░░░░░   73.14 % 
+veritran-platform-sbom   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+deployments              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+devstation-entities      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+environments             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (99.21%)
+⏱ AI Coding Time: 3 hrs 54 mins (96.48%)
 
-✍️ 401 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 614 lines written by AI, 1 lines written by hand (99.84% AI-written)
 
-🔤 3,094,294 Input Tokens, 234,335 Output Tokens
+🔤 2,670,007 Input Tokens, 240,562 Output Tokens
 
-💵 $19.71 Estimated AI Cost This Week
+💵 $25.28 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 71 AI Prompts
+🧠 10 AI Sessions, 61 AI Prompts
 
-Sonnet                   441 lines           █████████████████████████   100.00 % 
+Sonnet                   690 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📄 Detailed Prompter — average 594 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -105,7 +107,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:34:58 UTC
+ Last Updated on 29/09/2026 22:38:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
