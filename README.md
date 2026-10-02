@@ -20,9 +20,9 @@
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,45 +51,45 @@ Sunday                   1360 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-YAML                     2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-Other                    1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.19 % 
-Markdown                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Smarty                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
+YAML                     2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Smarty                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 11 mins       ███████████████████████░░   90.79 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Claude Code              6 hrs 17 mins       ███████████████████████░░   92.32 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🐱‍💻 Projects: 
-toolbox                  2 hrs 54 mins       █████████████░░░░░░░░░░░░   50.78 % 
-veritran-platform-sbom   1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-deployments              56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-devstation-entities      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-environments             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+toolbox                  3 hrs 26 mins       █████████████░░░░░░░░░░░░   50.53 % 
+veritran-platform-sbom   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+deployments              56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Documents                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+devstation-entities      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 18 mins (92.77%)
+⏱ AI Coding Time: 6 hrs 23 mins (93.93%)
 
 ✍️ 2,714 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 5,066,364 Input Tokens, 397,217 Output Tokens
+🔤 6,477,636 Input Tokens, 426,048 Output Tokens
 
-💵 $72.75 Estimated AI Cost This Week
+💵 $77.88 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 80 AI Prompts
+🧠 14 AI Sessions, 95 AI Prompts
 
 Sonnet                   2,807 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 732 characters per prompt
+📄 Detailed Prompter — average 1,022 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
@@ -107,7 +107,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:58:22 UTC
+ Last Updated on 02/10/2026 22:35:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
