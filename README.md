@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,47 +51,47 @@ Sunday                   1360 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-YAML                     2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Smarty                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.92 % 
+YAML                     2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.11 % 
+Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Smarty                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 17 mins       ███████████████████████░░   92.32 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Claude Code              5 hrs 1 min         ███████████████████████░░   91.52 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🐱‍💻 Projects: 
-toolbox                  3 hrs 26 mins       █████████████░░░░░░░░░░░░   50.53 % 
-veritran-platform-sbom   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-deployments              56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Documents                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-devstation-entities      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+toolbox                  2 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.04 % 
+veritran-platform-sbom   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+deployments              56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Documents                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+devstation-entities      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Mac                      6 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (93.93%)
+⏱ AI Coding Time: 5 hrs 4 mins (92.45%)
 
-✍️ 2,714 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 636 lines written by AI, 2 lines written by hand (99.69% AI-written)
 
-🔤 6,477,636 Input Tokens, 426,048 Output Tokens
+🔤 6,389,866 Input Tokens, 330,185 Output Tokens
 
-💵 $77.88 Estimated AI Cost This Week
+💵 $71.82 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 95 AI Prompts
+🧠 15 AI Sessions, 82 AI Prompts
 
-Sonnet                   2,807 lines         █████████████████████████   100.00 % 
+Sonnet                   695 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,022 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.69% of written lines came from AI
+📄 Detailed Prompter — average 1,145 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -107,7 +107,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:35:53 UTC
+ Last Updated on 03/10/2026 21:46:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
