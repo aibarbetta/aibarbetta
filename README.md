@@ -51,48 +51,48 @@ Sunday                   1372 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-Markdown                 3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-YAML                     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Text                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
+Markdown                 2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 30 mins       ████████████████████░░░░░   80.47 % 
-VS Code                  2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Claude Code              8 hrs 14 mins       ███████████████████████░░   90.86 % 
+VS Code                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🐱‍💻 Projects: 
-deployments              6 hrs 29 mins       ██████████████░░░░░░░░░░░   55.03 % 
-toolbox                  3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-cluster-api-fork         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Documents                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-capi-clusters            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+deployments              4 hrs 40 mins       █████████████░░░░░░░░░░░░   51.60 % 
+toolbox                  3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
+Documents                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+cluster-api-fork         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+capi-clusters            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Mac                      11 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (84.84%)
+⏱ AI Coding Time: 8 hrs 19 mins (91.88%)
 
-✍️ 1,034 lines written by AI, 583 lines written by hand (63.95% AI-written)
+✍️ 782 lines written by AI, 276 lines written by hand (73.91% AI-written)
 
-🔤 6,114,639 Input Tokens, 637,904 Output Tokens
+🔤 5,819,402 Input Tokens, 580,237 Output Tokens
 
-💵 $65.20 Estimated AI Cost This Week
+💵 $55.48 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 165 AI Prompts
+🧠 14 AI Sessions, 133 AI Prompts
 
-Sonnet                   1,105 lines         █████████████████████████   100.00 % 
+Sonnet                   792 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.95% of written lines came from AI
-📝 Concise Prompter — average 270 characters per prompt
+🤖 AI-Driven — 73.91% of written lines came from AI
+📝 Concise Prompter — average 268 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 39.65% of changed lines were hand-edited
+🚀 High AI Trust — 28.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -108,7 +108,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 01:02:18 UTC
+ Last Updated on 13/10/2026 23:08:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
